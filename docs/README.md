@@ -6,7 +6,8 @@
 
 # WindMC
 
-A fast, customizable and compatible open source server for Minecraft: Java Edition.Fork from [GlowStone](https://github.com/GlowstoneMC/Glowstone/)
+A fast, customizable and compatible open source server for Minecraft: Java Edition.
+Fork from [GlowStone](https://github.com/GlowstoneMC/Glowstone/)
  
 
 ## Introduction
