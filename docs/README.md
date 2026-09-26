@@ -4,9 +4,10 @@
 
 <img align="right" alt="Glowstone logo" width="100" src="../etc/logo/logo.png">
 
-# Glowstone
+# WindMC
 
-A fast, customizable and compatible open source server for Minecraft: Java Edition.
+A fast, customizable and compatible open source server for Minecraft: Java Edition.Fork from ![Dev Build](https://github.com/GlowstoneMC/Glowstone/workflows/Dev%20Build/badge.svg)
+ 
 
 ## Introduction
 
